@@ -4,7 +4,7 @@
 #include <time.h>
 
 #define SIZE 1000
-#define THREAD_MAX 1
+#define THREAD_MAX 10
 
 int part = 0;
 int arr[SIZE];
